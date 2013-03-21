@@ -3,8 +3,8 @@ aquarium
 
 Build instructions
 -------------------
-1) cmake .
-2) make
+1. cmake .
+2. make
 
 You'll get an executable named "aquarium"
 
