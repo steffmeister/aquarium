@@ -1,1 +1,0 @@
-/usr/bin/gcc     CMakeFiles/../aquarium.dir/main.c.o  -o ../aquarium -rdynamic -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lSDL_image -lSDL_mixer -lSDL_ttf -lSDLmain 
