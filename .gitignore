@@ -1,0 +1,7 @@
+## generic files to ignore
+*~
+CMakeFiles
+aquarium.dir
+Makefile
+cmake_install.cmake
+aquarium
